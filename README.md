@@ -35,7 +35,3 @@ Then visit `http://localhost:8000`.
 ## Notes
 
 The contact form is currently front-end only. Submitting it does not send an email or persist data. Wiring it to a backend or a form service, such as Formspree, would be needed for it to function.
-
-## License
-
-Not currently specified.
